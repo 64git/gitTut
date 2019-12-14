@@ -1,4 +1,5 @@
+#GitTutorial
+Tutorial by traversy media 
+Git and Github crash course
 
-#traversy media git and github crash course
-
-https://www.youtube.com/watch?v=SWYqp7iY_Tc
+link:https://www.youtube.com/watch?v=SWYqp7iY_Tc
